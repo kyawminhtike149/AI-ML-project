@@ -38,7 +38,7 @@ work_type, Residence_type, avg_glucose_level, bmi, smoking_status.
 ⚙️ Installation & Setup
 
 1️⃣ Clone or download this repository
-git clone https://github.com/<yourusername>/stroke-prediction-ML.git
+git clone https://github.com/kyawminhtike149/AI-ML-project/stroke-prediction-ML.git
 cd stroke-prediction-ML
 
 2️⃣ Create and activate environment (optional but recommended)
@@ -64,9 +64,9 @@ shap
 🧾 How to Run
 
 In Google Colab
-	1.	Open Google Colab￼.
+	1.	Open Google Colab.
 	2.	Upload the file Final_exam_assignment.ipynb.
-	3.	Upload the dataset stroke.csv or link it from Kaggle.
+	3.	Upload the dataset stroke.csv.
 	4.	Run all cells sequentially (Runtime > Run all).
 
   🧠 Models Implemented
@@ -106,7 +106,6 @@ AdaBoost             0.742       0.15         0.74      0.24  0.83
 Voting Classifier    0.847       0.17         0.46      0.25  0.82
 … (see notebook for full table)
 
-
 ⸻
 
 🧩 Interpretability
@@ -115,9 +114,9 @@ Feature importance is analyzed using SHAP (SHapley Additive Explanations).
 Top important features include:
 	•	age
 	•	avg_glucose_level
-	•	bmi
+	•	Work_type: Children
 	•	hypertension
-	•	heart_disease
+	•	Work_type: Self-employed
 
 ⸻
 
