@@ -38,7 +38,7 @@ work_type, Residence_type, avg_glucose_level, bmi, smoking_status.
 ⚙️ Installation & Setup
 
 1️⃣ Clone or download this repository
-git clone https://github.com/kyawminhtike149/AI-ML-project/stroke-prediction-ML.git
+git clone https://github.com/kyawminhtike149/AI-ML-project.git
 cd stroke-prediction-ML
 
 2️⃣ Create and activate environment (optional but recommended)
