@@ -141,7 +141,7 @@ Healthcare Analytics, 2022.
 
 ✍️ Author
 
-Your Name: Kyaw Min Htike
+Name: Kyaw Min Htike
 Institution: Khon Kaen University
 Course: Machine Learning Final Examination Project
 Date: November 2025
